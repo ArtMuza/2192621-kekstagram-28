@@ -33,6 +33,7 @@ body {
   line-height: 20px;
   color: #ffffff;
   text-transform: uppercase;
+  overflow-x: hidden;
 
   background-color: #232321;
 }
